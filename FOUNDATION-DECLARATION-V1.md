@@ -134,8 +134,8 @@ Returns: declaration text + XMSS signature + timestamp + signer pubkey.
 **Public key (pawel.a1a5 XMSS root):**
 
 ```
-root:     f7d4d034adba761b09d1c277a3d6e5178a2f79127f5b057a9433e90867d5939d
-pub_seed: a442f5583b1df6ae6289bc56e2d8ae2eecc20fd0af53426fcb1fbbfe7d027d58
+root:     c9a630a533a417230bcf8f32570824fe924381eb9ee028362b18fb60aad89bee
+pub_seed: 1a1340137ee6f5007ad572ff65d9e49641402ada856720083c39abbff10ef233
 ```
 
 Any party may verify the authenticity of this declaration by checking
@@ -299,8 +299,8 @@ Zwraca: tekst deklaracji + sygnaturę XMSS + timestamp + klucz publiczny podpisu
 **Klucz publiczny (XMSS root pawel.a1a5):**
 
 ```
-root:     f7d4d034adba761b09d1c277a3d6e5178a2f79127f5b057a9433e90867d5939d
-pub_seed: a442f5583b1df6ae6289bc56e2d8ae2eecc20fd0af53426fcb1fbbfe7d027d58
+root:     c9a630a533a417230bcf8f32570824fe924381eb9ee028362b18fb60aad89bee
+pub_seed: 1a1340137ee6f5007ad572ff65d9e49641402ada856720083c39abbff10ef233
 ```
 
 Każda strona może zweryfikować autentyczność tej deklaracji

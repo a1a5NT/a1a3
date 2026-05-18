@@ -147,8 +147,8 @@ Response:
 ```json
 {
   "name": "pawel.a1a5",
-  "xmss_root": "f7d4d034adba761b09d1c277a3d6e5178a2f79127f5b057a9433e90867d5939d",
-  "pub_seed":  "a442f5583b1df6ae6289bc56e2d8ae2eecc20fd0af53426fcb1fbbfe7d027d58",
+  "xmss_root": "c9a630a533a417230bcf8f32570824fe924381eb9ee028362b18fb60aad89bee",
+  "pub_seed":  "1a1340137ee6f5007ad572ff65d9e49641402ada856720083c39abbff10ef233",
   "registered_unix": 1778906400
 }
 ```

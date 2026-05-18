@@ -75,12 +75,12 @@ post-quantum keypair.
 
 **Public key (XMSS root):**
 ```
-f7d4d034adba761b09d1c277a3d6e5178a2f79127f5b057a9433e90867d5939d
+c9a630a533a417230bcf8f32570824fe924381eb9ee028362b18fb60aad89bee
 ```
 
 **Public seed:**
 ```
-a442f5583b1df6ae6289bc56e2d8ae2eecc20fd0af53426fcb1fbbfe7d027d58
+1a1340137ee6f5007ad572ff65d9e49641402ada856720083c39abbff10ef233
 ```
 
 These are real, working post-quantum public keys verifiable at:
@@ -267,10 +267,10 @@ SOVEREIGN ADDRESS
    pawel.a1a5
 
 PUBLIC KEY (XMSS root)
-   f7d4d034adba761b09d1c277a3d6e5178a2f79127f5b057a9433e90867d5939d
+   c9a630a533a417230bcf8f32570824fe924381eb9ee028362b18fb60aad89bee
 
 PUBLIC SEED
-   a442f5583b1df6ae6289bc56e2d8ae2eecc20fd0af53426fcb1fbbfe7d027d58
+   1a1340137ee6f5007ad572ff65d9e49641402ada856720083c39abbff10ef233
 
 READ INBOX
    GET http://37.97.202.97:8443/v1/inbox/pawel
